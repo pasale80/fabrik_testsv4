@@ -1,0 +1,7 @@
+testsv4:
+  base-url: https://sandbox.platfr.io
+  auth-schema: S2S
+  api-key: FXOVVXXHVCPVPBZXIJOBGUGSKHDNFRRQJP
+  account-id: 14537780
+server:
+  port: 8080
